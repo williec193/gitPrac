@@ -16,8 +16,4 @@ vvv
 ttt
 xxx
 ccc
-1
-2
-3
-4
 
